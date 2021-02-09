@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083940144624",
+    "project_id": "cloud-firestore-crud-e0a1a",
+    "storage_bucket": "cloud-firestore-crud-e0a1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083940144624:android:1ef36286f619cf4cad8935",
+        "android_client_info": {
+          "package_name": "com.alleoko.cloudfirestorecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083940144624-c6ia2r8qa0febskgg17iora9is45h2an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtioZl_a2dRXLVyeON-rHD1tvXKO_8Dwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083940144624-c6ia2r8qa0febskgg17iora9is45h2an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
